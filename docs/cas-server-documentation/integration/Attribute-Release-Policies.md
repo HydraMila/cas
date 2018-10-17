@@ -50,7 +50,7 @@ To see the relevant list of CAS properties, please [review this guide](../instal
 
 ### Return All
 
-Return all resolved principal attributes to the service.
+Return all resolved principal attributes to the application.
 
 ```json
 {
